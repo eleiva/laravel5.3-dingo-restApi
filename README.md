@@ -9,16 +9,16 @@ Start quicky building you own api.
  * php5.6-sqlite
 
 ## Installation
-``` 
-git clone https://github.com/eleiva/laravel5.3-dingo-restful-seed.git
-composer install
-composer dump-autoload
-cp .env.sample .env
-touch database/database.sqlite
-php artisan migrate:refresh --seed
-php artisan serve
-done!
-```
+
+* git clone https://github.com/eleiva/laravel5.3-dingo-restful-seed.git
+* composer install
+* composer dump-autoload
+* cp .env.sample .env
+* touch database/database.sqlite
+* php artisan migrate:refresh --seed
+* php artisan serve
+* done!
+
 
 ## Postman collection
 https://www.getpostman.com/collections/f728a0b06fce2d6dbde3
