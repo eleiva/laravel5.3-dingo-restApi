@@ -28,6 +28,7 @@ GET -> http://localhost:8000/api/users
 GET -> http://localhost:8000/api/users/1
 POST -> http://localhost:8000/api/users
 PUT -> http://localhost:8000/api/users/1
+DELETE -> http://localhost:8000/api/users/1
 ```
 
 ## Tools and components
