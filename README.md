@@ -1,4 +1,6 @@
-# laravel 5.3 Dingo Rest Api
+# laravel 5.3 Dingo Rest Api Seed
+
+Start quicky building you own api.
 
 ## Requirements
 
