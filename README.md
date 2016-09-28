@@ -6,7 +6,7 @@
  * php5.6-mbstring
  * php5.6-sqlite
 
-## Installatio
+## Installation
 ``` 
 git clone https://github.com/eleiva/laravel5.3-dingo-restful-seed.git
 composer install
